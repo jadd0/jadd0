@@ -1,6 +1,6 @@
 ### Jadd Al-Khabbaz
 
-AI engineer and Computer Science graduate (University of Liverpool), based in West Kirby on the Wirral. I build LLM products, the infrastructure under them, and the agent systems that run my own web studio.
+AI engineer and Computer Science graduate (University of Liverpool), based in Liverpool. I build LLM products, the infrastructure under them, and the agent systems that run my own web studio.
 
 **umbo: a WhatsApp assistant that runs the business**
 
